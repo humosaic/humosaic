@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ajperumbeti/ajperumbeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ml model pipes and reproducibility
 - 🌱 I’m currently learning bioinformatics
 - 👯 I’m looking to collaborate on wabi sabi gui
@@ -13,4 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: aperumbe@arizona.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: hikes, tykes, motorbikes, hang, jam, and fam
+
+<!--
+**ajperumbeti/ajperumbeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
