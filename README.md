@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ml model pipes and reproducibility
 - 🌱 I’m currently learning bioinformatics
-- 👯 I’m looking to collaborate on wabi sabi gui
+- 👯 I’m looking to collaborate on a wabi sabi gui
 - 🤔 I’m looking for help with mlOps
 - 💬 Ask me about iron deficiency
 - 📫 How to reach me: aperumbe@arizona.edu
