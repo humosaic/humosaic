@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ml model pipes
+- 🔭 I’m currently working on ml model pipes and reproducibility
 - 🌱 I’m currently learning bioinformatics
 - 👯 I’m looking to collaborate on wabi sabi gui
 - 🤔 I’m looking for help with mlOps
