@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on a wabi sabi gui
 - 🤔 I’m looking for help with anything, everything, & nothing
 - 💬 Ask me about iron deficiency, pediatric hematology, transfusion medicine, clinical & lab informatics, sickle cell, erythropoiesis, gene therapy
-- 📫 How to reach me: aperumbe@arizona.edu
+- 📫 How to reach me: aperumbe@arizona.edu, aperumbe@asu.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: hike, 2 cats, a girl, & a kid
 
