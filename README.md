@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ml model pipes and reproducibility
-- 🌱 I’m currently learning bioinformatics
+- 🔭 I’m currently working towards iron deficiency studies and tools, breath, notice, Whitney
+- 🌱 I’m currently learning bioinformatics, analysis pipelines, reproducibility, data/open science, SQL/Python/R/C++, machine learning/deep learning, GIS, healthcare deidentified and synthetic datasets
 - 👯 I’m looking to collaborate on a wabi sabi gui
-- 🤔 I’m looking for help with mlOps
-- 💬 Ask me about iron deficiency
+- 🤔 I’m looking for help with anything, everything, & nothing
+- 💬 Ask me about iron deficiency, pediatric hematology, transfusion medicine, clinical & lab informatics, sickle cell, erythropoiesis, gene therapy
 - 📫 How to reach me: aperumbe@arizona.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: hikes, tykes, motorbikes, hang, jam, and fam
+- ⚡ Fun fact: hike, 2 cats, a girl, & a kid
 
 <!--
-**ajperumbeti/ajperumbeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**humosaic/humosaic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
