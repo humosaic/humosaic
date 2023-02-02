@@ -3,7 +3,7 @@
 - 🔭 I’m currently working towards iron deficiency studies and tools, breath, notice, Whitney
 - 🌱 I’m currently learning bioinformatics, analysis pipelines, reproducibility, data/open science, SQL/Python/R/C++, machine learning/deep learning, GIS, healthcare deidentified and synthetic datasets
 - 👯 I’m looking to collaborate on a wabi sabi gui
-- 🤔 I’m looking for help with anything, everything, & nothing
+- 🤔 I’m looking for help with anything, everything, & moral support
 - 💬 Ask me about iron deficiency, pediatric hematology, transfusion medicine, clinical & lab informatics, sickle cell, erythropoiesis, gene therapy
 - 📫 How to reach me: aperumbe@arizona.edu, aperumbe@asu.edu
 - 😄 Pronouns: he/him
