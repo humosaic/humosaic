@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working towards iron deficiency studies and tools, breath, notice, Whitney
+- 🔭 I’m currently working towards iron deficiency studies and tools, breath, notice, mountains.  One day, Love to work on digital twins to improve health.
 - 🌱 I’m currently learning bioinformatics, analysis pipelines, reproducibility, data/open science, SQL/Python/R/C++, machine learning/deep learning, GIS, healthcare deidentified and synthetic datasets
 - 👯 I’m looking to collaborate on a wabi sabi gui
 - 🤔 I’m looking for help with anything, everything, & moral support
